@@ -1,0 +1,1 @@
+# Women-clothing-reviews-classification-with-RNN
